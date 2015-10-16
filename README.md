@@ -9,3 +9,6 @@ This is a GRA project at the Center for Urban Science and Progress at NYU. The a
 
 ## Disclaimer
 The data coming from the Department of Sanitation, I am not allowed to post everything in open-source.
+
+## Authors
+This work is realized by Arno Amabile, with the help of Nicholas Johnson & Constantine Kontokosta.
